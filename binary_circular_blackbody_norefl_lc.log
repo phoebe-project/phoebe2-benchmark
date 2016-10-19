@@ -66,3 +66,4 @@ plugin_framework dcaabb8a82548e313b147fca4b18b839430ad4b4 37.04
 mac_support 4d97bcecf232a25436ed7f03a3904f0b6036a53d 37.68
 plugin_framework f4f981f3b68aae635e07a0672dcec7cdb465ea3c 47.72
 mac_support 803b07b27f27f174f6e22162e12314873355aa24 35.47
+nosetests_optimize fb78ec7f272e8fec4fc9a74ab9ab6522db5b84dd 45.84
