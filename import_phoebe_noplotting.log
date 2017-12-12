@@ -102,3 +102,4 @@ misaligned_roche 8fbaf9cf7e8dd255572154bb11d1ca5907bc159f 1.02
 development 2ad1ad8c429896bdba8c8204ffde7c7b7c7bf316 1.1
 development 08e4de41facea5a31bf002bd20b57db0bd42ad4b 1.27
 plotting_rewrite ced9387e739b974c52fb39e6468ee0897d4dee9d 0.85
+devel_distutils bbb7853b215579ac9ad63cf72182c342e901c77d 0.02
