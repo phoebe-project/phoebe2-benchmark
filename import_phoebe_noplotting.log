@@ -335,3 +335,4 @@ mpi_fix 4cb7c64d2201f4df724e15cd580b871ef658f996 1.03
 misaligned_requiv_rewrite 0ca8789b27babefc307016b422d9b78dc7e3620c 1.1
 mpi_fix ac07eb0ff8b2e2e054a5e41e7880fe4f27b20170 1.12
 misaligned_requiv_rewrite 90de1e76ae93f0ced3299636e088085831daf200 1.08
+misaligned_requiv_rewrite 76175abba43a6d812a0c4ddc475e009b82437eb3 1.14
