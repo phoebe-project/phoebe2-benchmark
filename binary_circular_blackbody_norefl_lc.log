@@ -860,3 +860,4 @@ mpi_fix 4cb7c64d2201f4df724e15cd580b871ef658f996 13.5
 misaligned_requiv_rewrite 0ca8789b27babefc307016b422d9b78dc7e3620c 12.78
 legacy_upload_bugfix 6e1723aca9914bb534fa0aeda7eca3f4dc86ac02 34.27
 mpi_fix ac07eb0ff8b2e2e054a5e41e7880fe4f27b20170 14.14
+misaligned_requiv_rewrite 90de1e76ae93f0ced3299636e088085831daf200 12.42
