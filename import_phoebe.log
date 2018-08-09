@@ -337,3 +337,4 @@ mpi_fix ac07eb0ff8b2e2e054a5e41e7880fe4f27b20170 1.92
 misaligned_requiv_rewrite 90de1e76ae93f0ced3299636e088085831daf200 1.81
 misaligned_requiv_rewrite 76175abba43a6d812a0c4ddc475e009b82437eb3 1.94
 color_constrain 2f7971fc99a2fe6b6368e1c182b5eaac5a830f5b 1.77
+misaligned_requiv_rewrite 663e12266086e217d223435f462537c7d0b95f4e 1.85
