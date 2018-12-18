@@ -1026,3 +1026,4 @@ bugfix_mpich bf77d75b83e6ae24208ba8fa47048af97cdf8358 23.95
 bugfix_solar_constraints ba149acb8a0edc45b929e7b6324aa5223fa994a6 23.5
 bugfix_solar_constraints b8932a27fefc9e677f4813776a4b0618cf761462 23.2
 bugfix_mpich 4e7df1b2929ad04c1dfc52ebf08d04ca32863284 25.09
+bugfix_mpich ebf82af35fdd9f34c8b2f2b0ee90bef69f350681 24.7
