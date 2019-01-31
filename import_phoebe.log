@@ -559,3 +559,4 @@ logg_constraint 754cc32c52cc83c2d22384e25369777aa05ea104 1.8
 freq_constraint_hotfix 77b6c8d50e99571ed1b5d9f30a2d8ade97e933e7 1.8
 logg_constraint a5be57324a204db4478d0edca831f94ee8c8e056 1.74
 master 56c69faa347fb62456eed8d1a9026fab0dad67f1 1.8
+2.1.4 56c69faa347fb62456eed8d1a9026fab0dad67f1 1.77
