@@ -1233,3 +1233,4 @@ bugfix_esinw_ecosw 889d56ccc35b9c967ede3c1e6d1f752c0efde8e7 8.07
 development ecc03fa77033acc08d1e652ca286a4db7e0be74f 9.87
 l3_frac cfbdf30e60a5ff5bf6b3b865fe7f4f04cd83d7da 8.42
 l3_frac e1ac08d72efc583f88fb244ba30ec3730116b833 8.35
+bugfix_comparisons e762a4520aa01b11071c22eea9cf5bf13d66b045 7.41
