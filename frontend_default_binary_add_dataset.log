@@ -1269,3 +1269,4 @@ bugfix_esinw_ecosw 1d09389a7fc5e01eb89833c188cfe89bb895dfa9 3.43
 development e43bc842f89d91bd3c69d43a25457787780ac69f 5.08
 bugfix_esinw_ecosw d34e5363138f012ccc01ade03e929a6d5afc5695 3.59
 bugfix_limits 39acc115e7d0760fc4b7be2489a5de9e61ada38b 3.5
+extinction_requiv_merge 70b721135366d93c1f94c86767354f249fa5d85d 0.96
