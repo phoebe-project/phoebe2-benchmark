@@ -1341,3 +1341,4 @@ extinction_requiv_merge 1b43c5b1f7615f11c1353d625fa89be15a8faa70 2.28
 extinction_requiv_merge 9bfd5ea9c41b29c8f25018000141e9fb2cee1903 2.29
 development 2bd37e623ce1a0bfaacabe79218f9e9bc444773c 2.3
 development 90d2c26cb16693f33d4ec5fe295a52bc704ed7f2 2.11
+legacy_bugfix 3441a518fd99e9a190c94e64c10a8b1994d05cb6 2.78
