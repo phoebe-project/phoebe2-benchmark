@@ -1508,3 +1508,4 @@ ld_check_loosen 1e8e6bd29037a9268e014612478a9dd0b9a64c73 3.73
 extinction_requiv_merge a6e8cd94a5f8ee3705f0ec25beab862612e78f52 4.19
 multiple_systems 0ddfe61b013a2604c9d33fa1815d5e23a1ea40be 3.74
 phoenix 855deb2901636f7a4e8ab63b727dda5634b6e124 3.54
+blended_atm cbca2f7d62b8ddd6a6826e3b6debf95077583c8a 3.84
