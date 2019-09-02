@@ -1519,3 +1519,4 @@ devel_client_merge 37b9ad5bd016658ab1cde891a9b59d5557bebdca 3.26
 devel_client_merge b892b184a030bfeb464cd21d821d05580774e67f 3.18
 devel_client_merge 9a09114b2c1db183d4607451dbd47afdaf02a147 3.18
 ld_check_loosen 70cb27163118d451d3af178d97a5cbbcda9cb556 2.88
+ld_check_loosen 75a7e3b023270b512800a32b41276ec30aa12d74 3.0
