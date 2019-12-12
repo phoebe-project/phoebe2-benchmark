@@ -1631,3 +1631,4 @@ bugfix_ignore_fits_passbands 2b911fea0bedf72c014ed469230bf54ffdd5bda0 13.93
 master d7e4a779a7e0531c020d7f08fbe2ebdfee489b6c 17.05
 2.1.17 d7e4a779a7e0531c020d7f08fbe2ebdfee489b6c 13.79
 development d13ac94c971909c8e39f87d5aacde8a79ae50821 3.35
+release-2.2 a205525b79d3f885e5b6134c8e26bc77c3dd8a01 2.88
