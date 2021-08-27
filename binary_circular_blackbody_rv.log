@@ -1959,3 +1959,4 @@ development f58b8a17ead472c3a60bcb5621358c99593ceed8 5.1
 development 926b5d15c3ca5e2ad4f68732e2cf0fe6745e8f1f 6.36
 singlestar_bugfix 0deb294c3fa75caa2f7db6535f412875f4a80c7c 6.26
 celerite2 c3de9e6061ea980f964890ca625ca776641db938 5.15
+bugfix_astropy_array_constraint 10a4d6725c2da7081d71c9cec644726893bab9cb 6.17
