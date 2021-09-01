@@ -1965,3 +1965,4 @@ development 1088ce71a1bff86e3c5a453f6285367b03405d8b 6.45
 bugfix_astropy_array_constraint 0e7a23102f723aea6357e1806725f94dd4cb3044 4.38
 master c3f816b3a2997d3c8e51d5e6dde8a748f5d94335 4.68
 bugfix_adopt_sol_median d052ab2e4bbcd35fbb5cc4c082ef3199fd38bdd5 6.1
+master d53950f4e5c46f8bc7f9a2a3ea37394bf36fa6cf 5.33
