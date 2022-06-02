@@ -2063,3 +2063,4 @@ phoebe_2.4dev 7607f3c6b69d7e0bcb7dbdc733fdaac5ce00b6a3 5.27
 phoebe_2.4dev ee79de4a8172e09f9167de0e37b368883a269cbb 5.12
 phoebe_2.4dev ec10910dc2b6bcb262c9b3df45d1f3106525b980 4.96
 master 0e91d49106f31cc6d1b4afb8df8b8398fa2eab25 6.67
+bugfix-solver-filtering-plotting a8ad58539548cd3b20d7139c13c244dcc175a6c9 6.24
