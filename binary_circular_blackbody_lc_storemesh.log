@@ -2072,3 +2072,4 @@ test_remoteslurm_options b3ed2c49d0e86867887082c22d9f1ed28caf9f67 12.94
 gps_scaling 97669921507ea09973b86bdd36dab9d740fb76eb 13.1
 gps_scaling 73e7596f40b6e457f2b2cd31d3b9c1261bb444f7 15.27
 test_remoteslurm_options e1a4aabb330803aa0abe920705221bc954320320 13.13
+gps_scaling fae25183602742b8beecf0f82f6af4123be8c2dd 13.05
