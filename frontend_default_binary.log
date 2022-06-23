@@ -2078,3 +2078,4 @@ test_remoteslurm_options abfffd388857f8940f93375f66bb78dd0648df21 1.9
 singlestar_bugfix ddfb57fed7bec4bd6b4bfe9c058db4cac9b5dec3 1.63
 libphoebe_bugfix 96147049b855cfa3be71f328e11f852af1f67bbd 1.61
 development 29a10933e699f2bce23503775c7a97adbacff63e 1.99
+release-2.5 a28e250f9926235a120db644858f006784056aa7 1.94
