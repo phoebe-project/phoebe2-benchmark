@@ -2077,3 +2077,4 @@ gps_scaling fae25183602742b8beecf0f82f6af4123be8c2dd 4.81
 test_remoteslurm_options abfffd388857f8940f93375f66bb78dd0648df21 5.71
 singlestar_bugfix ddfb57fed7bec4bd6b4bfe9c058db4cac9b5dec3 4.37
 libphoebe_bugfix 96147049b855cfa3be71f328e11f852af1f67bbd 4.69
+development 29a10933e699f2bce23503775c7a97adbacff63e 5.06
