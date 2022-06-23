@@ -2075,3 +2075,4 @@ test_remoteslurm_options e1a4aabb330803aa0abe920705221bc954320320 13.13
 gps_scaling fae25183602742b8beecf0f82f6af4123be8c2dd 13.05
 test_remoteslurm_options abfffd388857f8940f93375f66bb78dd0648df21 15.41
 singlestar_bugfix ddfb57fed7bec4bd6b4bfe9c058db4cac9b5dec3 13.35
+libphoebe_bugfix 96147049b855cfa3be71f328e11f852af1f67bbd 13.29
