@@ -2087,3 +2087,4 @@ feature-pulsations 781f2dc93a58eb88475e6d75d2831ee270035b67 4.55
 test_remoteslurm_options ff7937e26bcb425b743f446cf53688396e90dc3e 4.59
 master 26a8fd00b96e8f8aa367e7400a89c1e7a562e61c 5.0
 feature-pulsations ce99e7d167a067c46a4ad1731c71dbba04ce8bce 4.59
+master 5ebf3cb322bef18265c08a19a9ff0ac2f121034c 5.26
