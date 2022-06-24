@@ -1551,3 +1551,4 @@ test_remoteslurm_options ff7937e26bcb425b743f446cf53688396e90dc3e 1.17
 master 26a8fd00b96e8f8aa367e7400a89c1e7a562e61c 1.4
 feature-pulsations ce99e7d167a067c46a4ad1731c71dbba04ce8bce 1.24
 master 5ebf3cb322bef18265c08a19a9ff0ac2f121034c 1.32
+release-2.5 5ebf3cb322bef18265c08a19a9ff0ac2f121034c 1.58
