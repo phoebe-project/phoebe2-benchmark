@@ -2092,3 +2092,4 @@ release-2.5 5ebf3cb322bef18265c08a19a9ff0ac2f121034c 6.73
 release-2.5 1cd4ed2b1e9a88ee12beb0d693322df08971a5b0 6.25
 feature-blending-clean 1cd4ed2b1e9a88ee12beb0d693322df08971a5b0 5.28
 feature-pulsations 6c03a2f97e3f77f50fd1016d3089357d5f5ff87b 5.2
+x-emcee_move_feature e0d00377a7b747430ffc17bb771374b49c994472 4.87
