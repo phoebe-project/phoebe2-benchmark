@@ -2095,3 +2095,4 @@ feature-pulsations 6c03a2f97e3f77f50fd1016d3089357d5f5ff87b 4.93
 x-emcee_move_feature e0d00377a7b747430ffc17bb771374b49c994472 4.61
 x-libphoebe_bugfix 89c7d15ee5e2d382d66bf97c89f923f6e113201e 4.52
 x-development 29a10933e699f2bce23503775c7a97adbacff63e 4.24
+x-singlestar_bugfix ddfb57fed7bec4bd6b4bfe9c058db4cac9b5dec3 4.99
